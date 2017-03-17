@@ -191,3 +191,15 @@ footer p {
 #rotate90 {
     transform: rotate(90deg);
 }
+
+/* Table style */
+table, th, td {
+    border: 1px solid black;
+}
+th, td {
+    padding: 15px;
+    border: 2px solid black;
+}
+th {
+    text-align: left;
+}
