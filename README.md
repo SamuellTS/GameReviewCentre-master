@@ -1,27 +1,23 @@
-Alt-H1 [Game Review Centre]
-[Business Casual](http://startbootstrap.com/template-overviews/business-casual/) is a multipurpose website theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a landing page, about page, blog page, and a contact page along with various custom styles and components.
+## Game Review Centre
 
-## Getting Started
+# Intro
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/business-casual/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-business-casual.git`
-* Fork the repo
-* Your must enter your database information and your email in form-handler.php - if you don't have a database, that's fine.  Edit contact.html to direct the form to form-handler-nodb.php and emails will be sent with no database writes.
+[GRC](https://samuellts.github.io/GameReviewCentre-master/) is a multi-page website that will be review the latest games for PlayStation consoles such as PS3,PS4 and PlayStation Vita. It will be a website to promote and build a community on their reviews for this specific brand of consoles. The website will be split into multiple web pages which can be accessed from the navbar at the top of the page. The website has a fairly simple design with basic colors, as the background is pure black with the information being displayed in white boxes that are located in the centre of the page with the black background running round them.
 
-## Bugs and Issues
+# Index
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-business-casual/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/business-casual/).
+The [index](https://samuellts.github.io/GameReviewCentre-master/index.html) page is the very first page of the website. It is a simple page with the logo, navbar, title of the website, the builder of the website and the purpose.
 
-## Creator
+# About
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+The [about](https://samuellts.github.io/GameReviewCentre-master/about.html) page is an expansion to the index because it goes into more detail about the builder of the website. It also has links to the builders social media which are located at the bottom of the page.
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+# Console Reviews
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+The console review pages all have the same layout which begins with the same logo and navbar. The consoles that are being reviewed are [PS3](https://samuellts.github.io/GameReviewCentre-master/ps3.html), [PS4](https://samuellts.github.io/GameReviewCentre-master/ps4.html), [PS4 Pro](https://samuellts.github.io/GameReviewCentre-master/ps4Pro.html) and [PS Vita](https://samuellts.github.io/GameReviewCentre-master/psVita.html). It then tells you the console name followed by the trailer of that specific console. After the trailer the specifications for the console are displayed within a table. These web pages also include a review for the consoles and where you could buy the consoles.
 
-## Copyright and License
+The website also has a dropdown menu within the navbar which links to each game genre that is covered within the website. When you click on these links you will be taken to that specific game genres page where you will see the title which are then followed by four games that are reviewed. These games are split into separate boxes and are in rows of two.
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-business-casual/blob/gh-pages/LICENSE) license.
+# Contact
+
+The final page of the website is the contact page which has a map of the area the builder lives with an email so a user of the website can contact the reader directly. There is also a contact form attached to the bottom which is another way to contact the builder. This contact is to be used for any complaints or suggestions for the website so the builder can make changes to the website.
